@@ -13,4 +13,4 @@ spring:
     mapping-resources:
 
 DATASOURCE : "{\"username\":\"gmorunsystem\",\"password\":\"${PASSWORD_CP}\",\"engine\":\"mysql\",\"host\":\"10.1.10.250\",\"port\":3306,\"dbname\":\"db_gzr_webinternal_dev\"}"
-PASSWORD : Admin@12345678
+PASSWORD : "{cipher}AQB/q+Wrvep/9oAhffCzXakBFQVfr7zKnQJqYZT4aoaC3ykzTCcqK0BYVvNNSnL7S7hFCRh4DXl1HfCjq4pChwPyjg5MZKe2GvbiGPcqj1tTt0Awa622hqeszHin6sUJRbKMkKL5JWUM3l1jaNed6u6aT/e7qtMnd7teT7u0ujc/Z9wE0pPQIL7YdjnQVit8McEIBv9QIeVprroqpJpc7yPbaphLzbGYak31DWg7XWgwQ2v4T3U/SL0lF/IF+VlvX0me4MMO/s6nclaD4uF+blB2yjj1ffkqmEM4SKy9eKhpYRlChbIqbfor4A4ERNnrus4byEuUTv3AFBDwQ3zr8s55iteIWMvCzK43pBE5Boq0d0OEbqQpughlxvNHU2b43sk="
